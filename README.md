@@ -2,15 +2,15 @@
 
 ## Pendahuluan
 
-Ini adalah kumpulan artikel cara penggunaan software non coding untuk Windows, Linux, Web dan lain-lain.
+Ini adalah kumpulan artikel cara penggunaan sistem operasi Ubuntu Linux.
 
-Bekal skill software non coding menurut saya sangat berguna untuk belajar coding.
+Bekal skill sitem operasi menurut saya sangat berguna untuk belajar coding.
 
 Belajar coding, Node JS, misalnya, akan tidak efektif jika kita bahkan tidak kenal dengan perintah command line.
 
 Selain itu, belajar Electron JS untuk aplikasi Windows 11, akan sulit jika kita bahkan tidak tahu apa itu folder AppData.
 
-Di sini, saya berencana untuk mempublikasi artikel seputar software non coding.
+Di sini, saya berencana untuk mempublikasi artikel seputar sistem operasi Ubuntu Linux.
 
 Tapi itu bukan berarti artikel-artikel tersebut benar-benar bebas kode.
 
