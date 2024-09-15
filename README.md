@@ -24,7 +24,7 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Mencari File Di Ubuntu Dengan Command Line](https://github.com/rakifsul/belajar_ubuntu/blob/main/Cara-Mencari-File-Di-Ubuntu-Dengan-Command-Line.md)
 -   [Cara Menambah Directory Ke PATH Ubuntu](https://github.com/rakifsul/belajar_ubuntu/blob/main/Cara-Menambah-Directory-Ke-PATH-Ubuntu.md)
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
 
